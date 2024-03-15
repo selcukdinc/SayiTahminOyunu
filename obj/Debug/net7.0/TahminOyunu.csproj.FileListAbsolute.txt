@@ -1,0 +1,39 @@
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/bin/Debug/net7.0/TahminOyunu
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/bin/Debug/net7.0/TahminOyunu.dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/bin/Debug/net7.0/TahminOyunu.pdb
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.AssemblyInfoInputs.cache
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.AssemblyInfo.cs
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.csproj.CoreCompileInputs.cache
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/refint/TahminOyunu.dll
+/Users/selcukdinc/icloduarsiv/Desktop/WorkAllDay/eemuh/PROGRAMLAMA/YarıyılÇalışmaları/TahminOyunu/obj/Debug/net7.0/TahminOyunu.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\bin\Debug\net7.0\TahminOyunu.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\bin\Debug\net7.0\TahminOyunu.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\bin\Debug\net7.0\TahminOyunu.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\bin\Debug\net7.0\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\bin\Debug\net7.0\TahminOyunu.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\refint\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\TahminOyunu.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\I. YY\Programlama\Yar─▒y─▒lC╠ğal─▒s╠ğmalar─▒\TahminOyunu\obj\Debug\net7.0\ref\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\bin\Debug\net7.0\TahminOyunu.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\bin\Debug\net7.0\TahminOyunu.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\bin\Debug\net7.0\TahminOyunu.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\bin\Debug\net7.0\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\bin\Debug\net7.0\TahminOyunu.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.sourcelink.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\refint\TahminOyunu.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\TahminOyunu.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.DonemDuzenleme\TahminOyunu\obj\Debug\net7.0\ref\TahminOyunu.dll
